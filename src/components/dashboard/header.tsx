@@ -21,6 +21,7 @@ interface HeaderProps {
 }
 
 export function Header({ profile, organizationName, onSignOut }: HeaderProps) {
+  // Derive initials: prefer full_name, fall back to first 2 chars of org name.
   const initials = profile?.full_name
     ? profile.full_name
         .split(" ")
@@ -28,7 +29,7 @@ export function Header({ profile, organizationName, onSignOut }: HeaderProps) {
         .join("")
         .toUpperCase()
         .slice(0, 2)
-    : "??";
+    : (organizationName ?? "").slice(0, 2).toUpperCase() || "ME";
 
   return (
     <header className="flex h-16 items-center justify-between border-b bg-background px-6">
@@ -70,7 +71,7 @@ export function Header({ profile, organizationName, onSignOut }: HeaderProps) {
             <DropdownMenuLabel className="font-normal">
               <div className="flex flex-col space-y-1">
                 <p className="text-sm font-medium leading-none">
-                  {profile?.full_name ?? "Unknown User"}
+                  {profile?.full_name ?? organizationName ?? "User"}
                 </p>
                 <p className="text-xs leading-none text-muted-foreground capitalize">
                   {profile?.role ?? "viewer"}
