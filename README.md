@@ -24,11 +24,11 @@
 
 | Dashboard Overview | Asset Management |
 |---|---|
-| ![Dashboard](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Dashbord.png) | ![Assets](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Assets.png) |
+| ![Dashboard](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/public/screenshots/Dashbord.png) | ![Assets](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/public/screenshots/Assets.png) |
 
 | Maintenance Tracker | Settings & Organization |
 |---|---|
-| ![Maintenance](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Maintenance.png) | ![Settings](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Settings.png) |
+| ![Maintenance](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/public/screenshots/Maintenance.png) | ![Settings](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/public/screenshots/Settings.png) |
 
 ---
 
