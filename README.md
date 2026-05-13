@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-[**🚀 Live Demo**](https://asset-flow-delta.vercel.app) · [**📂 Repository**](https://github.com/DudiMonsonego/AssetFlow)
+[**🚀 Live Demo**](https://my-assetflow.vercel.app) · [**📂 Repository**](https://github.com/DudiMonsonego/AssetFlow)
 
 > Use the **"Try Demo"** button on the login page — no account needed.
 
