@@ -10,6 +10,11 @@ export const metadata: Metadata = {
     template: "%s | AssetFlow",
   },
   description: "Professional Hardware Lifecycle Management for modern B2B teams.",
+  // Prevent browsers (Chrome, Edge) from auto-translating the UI.
+  // The app is intentionally English-only.
+  other: {
+    "google": "notranslate",
+  },
 };
 
 export default function RootLayout({
