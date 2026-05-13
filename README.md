@@ -24,11 +24,11 @@
 
 | Dashboard Overview | Asset Management |
 |---|---|
-| ![Dashboard](https://placehold.co/600x380/1e293b/94a3b8?text=Dashboard+Overview) | ![Assets](https://placehold.co/600x380/1e293b/94a3b8?text=Asset+Management) |
+| ![Dashboard](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Dashbord.png) | ![Assets](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Assets.png) |
 
 | Maintenance Tracker | Settings & Organization |
 |---|---|
-| ![Maintenance](https://placehold.co/600x380/1e293b/94a3b8?text=Maintenance+Tracker) | ![Settings](https://placehold.co/600x380/1e293b/94a3b8?text=Settings+%26+Org) |
+| ![Maintenance](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Maintenance.png) | ![Settings](https://raw.githubusercontent.com/DudiMonsonego/AssetFlow/main/Settings.png) |
 
 ---
 
